@@ -10,6 +10,14 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-fini-pink: #FF0099;
+  --color-fini-purple: #9D00FF;
+  --color-fini-bg: #FFFFFF;
+  --color-fini-cyan: #00FFFF;
+  --color-fini-yellow: #FFEA00;
+  --color-fini-red: #FF0000;
+  --color-fini-lime: #CCFF00;
+  --color-fini-orange: #FF5500;
 }
 
 @media (prefers-color-scheme: dark) {
