@@ -5,7 +5,7 @@ const videos = [
     {
         id: 1,
         title: "TIENDA FINI",
-        src: "/videos/Generando_video_de_tienda_FINI.mp4",
+        src: "/videos/tienda.mp4",
         poster: "/placeholder-1.jpg",
         color: 'pink' as const,
         featured: true
@@ -13,21 +13,21 @@ const videos = [
     {
         id: 2,
         title: "Jungle World",
-        src: "/videos/Generación_de_Video_Tienda_FINI.mp4",
+        src: "/videos/jungla.mp4",
         poster: "/placeholder-2.jpg",
         color: 'lime' as const
     },
     {
         id: 3,
         title: "Rainbow World",
-        src: "/videos/Generación_de_Video_de_Tienda.mp4",
+        src: "/videos/arcoiris.mp4",
         poster: "/placeholder-3.jpg",
         color: 'multicolor' as const
     },
     {
         id: 4,
         title: "Cloud World",
-        src: "/videos/Generación_de_Video_de_Tienda (1).mp4",
+        src: "/videos/nube.mp4",
         poster: "/placeholder-3.jpg",
         color: 'cyan' as const
     }
